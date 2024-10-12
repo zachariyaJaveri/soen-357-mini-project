@@ -1,0 +1,49 @@
+.instrument-text {
+    text-align: center;
+    font-family: "Instrument Sans", sans-serif;
+    font-style: normal;
+    outline-style: dashed;
+    outline-color: #2CAC4E;
+    font-optical-sizing: auto;
+}
+
+h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+}
+
+p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 50%;
+    font-family: "Moderustic", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+ul {
+    text-align: left;
+    display: table;
+    margin: 0 auto;
+}
+
+li {
+    text-align: left;
+    padding: 0;
+    font-optical-sizing: auto;
+    font-family: "Moderustic", sans-serif;
+
+}
